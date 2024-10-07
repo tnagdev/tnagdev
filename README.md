@@ -1,5 +1,5 @@
 # 💫 About Me:
-Architecting and leading the development of Swift Security (a browser security extension) and working on hybrid mobile and web applications as a Lead Frontend Developer at CBNITS.
+Architecting and leading the development of Swift Security (a browser security extension) and working on hybrid mobile and web applications as a Tech Lead at NextGen Minds.
 Projects involving cloud security, hybrid mobile applications, and web applications, especially those utilizing technologies like Angular, React.
 Opportunities to explore machine learning applications and backend development to expand into full-stack development.
 Advanced backend technologies and DevOps skills to transition into a full-stack role, along with further exploration of machine learning concepts.
